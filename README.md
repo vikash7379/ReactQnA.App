@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+<img src ="demo.gif" width='700px' height='500'>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
